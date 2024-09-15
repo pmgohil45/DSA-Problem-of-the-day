@@ -13,8 +13,8 @@ Expected Time Complexity: O(n)
 Expected Space Complexity: O(n)
 
 Constraints:
-1 <= arr.size() <= 106
-1<= arr[i] <=109
+1 <= arr.size() <= 10^6
+1<= arr[i] <=10^9
 """
 
 class Solution:
